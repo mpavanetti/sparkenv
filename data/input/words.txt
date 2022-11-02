@@ -1,0 +1,221 @@
+words-translation
+ditched - Abandonou.
+Muttering - Murmurando.
+Bladder - Bexiga.
+Slipped - Escorregou (Escorregar).
+Rottenest - O Mais podre (Podridao).
+Novelist - Romancista .
+Snipping - Recortando (Recorte).
+Yarn - Fio (Trico).
+Mournfully - Tristemente.
+Coffin - Caixao.
+Suspertiction - Suspeita.
+Darn right - Muito Certo.
+Cheered - Aplaudido.
+Slapped - (Esbofetado, Tapeado).
+Stared - Encarou.
+Feverish - Febril.
+Shivering - Tremendo.
+Chattering - Tagarelando.
+Dabbed - Esfregado.
+Forehead  - testa, a frente.
+Sleeve - Manga.
+Snip the cord - Corte o Cordao.
+Mumbled - Resmungou.
+Wrinkled - Enrugado.
+Tied - Amarrado.
+Bony arma - Arma Ossea.
+Sticking out - Saindo.
+bleached - Branqueado
+cotton dresses - Vestido de algodao.
+Long bladed - Lamina longa.
+Shears - Tesoura de jardim.
+Wrenched - Apertado, torcido.
+Chunk - pedaco.
+Shuddered - Estremeceu.
+Roared - Rugiu.
+Stretch - Esticar.
+Walnuts - Nozes.
+Apricots - Damascos.
+Jugs of cider - Jarros de cidra.
+Clawfoot - Pe de garra.
+Knitting - Trico.
+Socks - Meias.
+Held - Guardado.
+Greyhound - Galgo.
+Knees - Joelhos.
+Dreaded - Tremido.
+Murmured - Murmurou.
+Stretching - Alongamento.
+Inched - Centimetrico, Mover Lentamente.
+Pine trees - Pinheiros.
+Uphill - Subida.
+Glanced - olhou.
+Snuffling  - fungando.
+Nuzzling - Aninhar se.
+Hunched - Encurvado.
+Moaned - gemeu.
+Sight - Visao.
+Cue - Deixa.
+Bellowed - Gritou.
+Torn - Rasgado.
+Creaking - Rangindo.
+Groaning - Gemeando.
+Slammed - Bateu.
+Skidded - deslizou.
+Sparks - faiscas.
+Not a scratch - nem um arranhao.
+Selfish  - Egoista.
+Tromping - Tropecando.
+Reek - Cheiro forte.
+He reeked like rotten meat -  Ele cheirou como uma carne podre.
+The bull man stormed past like a freight train - O homem touro passou como um trem de carga.
+Grunted - gemido, ronco.
+The bullman grunted pawing the ground - O homem touro gruniu amassando o chao.
+Pummeling - Esmurrando (socando).
+Tensed - tenso.
+Grunt - grunhido, ronco.
+Snap - foto.
+Flung - Atirar, arremecar.
+Sat up - Sentou se.
+Blurry - Embassado.
+The monster charged - o monstro carregou.
+Kneeling - Ajoelhado.
+Barreled - envasilhar.
+Furry rib cage - Caixa toraxica peluda.
+Roared in agony - rugiu em agonia.
+Flailed - agitado.
+Clawing - arranhando.
+Crumbling sand - areias desmoronando.
+Blown away in chunks - explodido em pedacos.
+Burst apart  - explodir.
+Rumbled - rudigo.
+Livestock - gado.
+Splitting open - se abrindo.
+Grief - pesar.
+Vanish - desaparecer.
+Haul him up - Puxe o para cima.
+Stagger down into The Valley - cambalear para o vale.
+But I held on to Grover -  mas eu me segurei no grover.
+Wooden Porch - varanda de madeira.
+Ceiling fan - ventilador de teto.
+Moths - mariposas.
+Stern - traseiro, rabo.
+Curled - enrolado.
+
+Barnyard - Curral.
+I just passed out again - Acabei de desmaiar denovo.
+Spoon fed - Alimentando com colher.
+Pudding - Pudim.
+Lying in a soft bed - Deitado em uma cama macia.
+Hovered - Pairou.
+Smirking - Sorrindo.
+Scraped drips off my chin - Raspado que escorreu do meu queixo.
+Croak - Coaxar.
+Cheeks - Bochechas.
+When I finally came around for good - Quando finalmente eu melhorei.
+Gazing - Comtenplando, olhando.
+Huge porch - Varanda enorme.
+Gazing across a meadow - olhando atravez de um prado.
+The Breeze smelled like strawberries  - A brisa cheirava morangos.
+Blanket over my legs  - coberto sobre minhas pernas.
+Tongue - lingua.
+Nasty - Desagradavel.
+Straw - Palha.
+Parasol - Guarda sol.
+Stuck - Preso.
+Leaning - Enclinado.
+Railing - Corrimao.
+Cradled - Embalado.
+Bright - Brilhando.
+Reverently - Reverentemente.
+Lap - Colo.
+Jagged - Irregular.
+Splattered - Salpicado.
+Groves - Bosques.
+I suddenly felt dizzy , my vision swimming - De repente me senti tonto, minha visao embassada.
+I recoiled at the taste - Eu recuei com o gosto.
+Grief - Pesar.
+Cheek - Bocheca.
+Nodded - Assentiu.
+Wistful - Melancolico.
+Sighed - Suspirou.
+Gingerly - Gentilmente.
+The porch wrapped all the way around the farm house - A varanda envolvia toda a casa da fazenda.
+Wobbly - Vacilante.
+Shore - Costa.
+Marched - Marchou.
+Glittered - Brilhante.
+Dotted - Pontilhado.
+
+Sandpit - Caixa de Areia.
+Glided - Deslizou.
+Chasing - Perseguindo.
+Nestled - Aninhado.
+Rode - Montaram.
+Sat across - Sentado do outro lado.
+Leaning on the porch rail next to them - Apoiando se no corrimão da varanda ao lado deles.
+Lean on - Confiar.
+Porky - Gaguinho.
+Watery - Aguado.
+Wore - Vestiu.
+Out gambled - Fora do jogo.
+Thinning - Desbaste.
+Scraggly beard - Barba desgrenhada.
+Cried - Gritou/Chorou.
+Mischievous glint - brilho malicioso.
+glint - cintilar.
+Bloodshot - Injetado de Sangue.
+Heaved a great sigh - Soltou um grande suspiro.
+Scooted - Fogindo.
+Bunk - Beliche.
+Tan - Bronzeado
+Startling - Surpreendente
+Drool - Babar.
+Lawn - Grama.
+Shuffling - Embaralhando.
+Belched - Arroto.
+Nodded - Assentiu.
+The camp director dealt the cards. Grover flinched every time one landed in his piles. - O diretor do acampamento
+distribuiu as cartas. Grover estremecia cada vez que um caía em suas pilhas.
+Bidding - Licitacao.
+No small feat, either lad - Não é pouca coisa, qualquer rapaz.
+Altogether - Completamente.
+We shan’t deal with the metaphysical - Não vamos lidar com o metafísico.
+Endeavors - Esforcos.
+Woven - Tecido.
+Feigned - Fingido.
+Wood nymph - Ninfa de Madeira.
+Stammered - Gaguejou.
+Taught - Ensinado.
+Whiny.
+Plump - Gordo.
+Hoof - Casco.
+Stared - Encarou.
+Sprung - Mola.
+Stallion - Garanhao.
+Cooped up  - Encurralado.
+Velvet - Veludo.
+Sinew - Tendao.
+Coarse - Grosso.
+Held - Guardado.
+Hindquarters - Traseiros.
+Sprung - Mole.
+Stallion - Garanhao.
+Smoothly grafted - Enxertado suavemente.
+What a relief - Que alivio.
+Cooped up - Aprisionado.
+Nudged - Empurrado.
+Brass eagle weather vane - Cata vento de águia de bronze.
+Uppermost window of the attic gable - Janela superior da empena do sótão.
+Lighthearted - Alegre.
+Bushels - Alqueires.
+Tune on a reed pipe - Sintonize em um tubo de junco.
+Shed - Cabana.
+The threshold was worn down - O limiar foi desgastado.
+Peeling - Descamação.
+Winged pole - Poste alado.
+Stood - Permaneceu.
+Bowed - Curvado.
+Thick - Espesso.
+Beneath - Abaixo.
