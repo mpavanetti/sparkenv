@@ -1,0 +1,4 @@
+config/*
+data/output/*
+jobs/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
