@@ -1,0 +1,78 @@
+version: '3'
+
+services:
+
+  jupyer-notebook-pyspark:
+    image: jupyter/pyspark-notebook
+    ports:
+      - '8888:8888'
+      - '4040:4040'
+    volumes:
+      - .././data:/home/jovyan/work/data:rw
+      - .././jars:/home/jovyan/work/jars:rw
+      - .././jobs:/home/jovyan/work/jobs:rw
+      - .././notebooks:/home/jovyan/work/notebooks
+    user: root
+    environment:
+      - GRANT_SUDO=yes
+      - JUPYTER_TOKEN=tad
+      - SPARK_MASTER=spark://spark:7077
+    networks:
+      - spark-network
+
+  spark:
+    image: docker.io/bitnami/spark:3.3.1
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - '8080:8080'
+      - '7077:7077'
+    networks:
+      - spark-network
+    volumes:
+      - .././data:/home/jovyan/work/data:rw
+      - .././jars:/home/jovyan/work/jars:rw
+
+  spark-worker:
+    image: docker.io/bitnami/spark:3.3.1
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark:7077
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - '8081:8081'
+    networks:
+      - spark-network
+    volumes:
+      - .././data:/home/jovyan/work/data:rw
+      - .././jars:/home/jovyan/work/jars:rw
+
+  mariadb:
+    image: mariadb:10.7
+    ports:
+      - 3306:3306
+    volumes:
+      - ".././config/mariadb:/var/lib/mysql"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_PASSWORD=mysql
+      - MYSQL_USER=mysql
+      - MYSQL_DATABASE=data
+    restart: on-failure
+    networks:
+      - spark-network
+
+networks:
+  spark-network:
+    external: true
+    driver: bridge
+      
