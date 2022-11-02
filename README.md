@@ -10,7 +10,7 @@
 * [Git Versioning Software ](https://git-scm.com/download/linux)
 * [Docker Container Virtualization Software](https://docs.docker.com/engine/install/ubuntu/)
 * [Docker-Compose multi-container Docker applications](https://docs.docker.com/compose/install/) (Already available with docker desktop windows.)
-<br><br>
+<br>
 
 # Instructions
 Clone this repository into your linux/windows working directory and navegate into it.  
@@ -33,7 +33,7 @@ docker-compose up -d (Windows)
 # Add permissions
 sudo chmod -R 777 ./ (Linux)
 ```
-<br><br>
+<br>
 
 ## Accesses
 <br> 
