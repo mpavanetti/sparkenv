@@ -18,6 +18,10 @@ Clone this repository into your linux/windows working directory and navegate int
 Run the following commands:
 ```
 
+# Create Local Folder and give permissions
+sudo mkdir sparkenv && sudo chmod -R 777 sparkenv && cd sparkenv (Linux)
+mkdir sparkenv ; cd sparkenv (Windows)
+
 # Clone Git repository to the created folder
 git clone https://github.com/mpavanetti/sparkenv.git .
 
@@ -33,10 +37,8 @@ docker-compose up -d (Windows)
 # Add permissions
 sudo chmod -R 777 ./ (Linux)
 ```
-<br>
 
 ## Accesses
-<br> 
 
 ### Jupyterlab
 Access the jupyterlab UI through the link http://localhost:8888/  
@@ -57,3 +59,18 @@ This is all you need in case you take the spark local deployment option.
 * MySQL User: mysql
 * MySQL Password: mysql
 * Main Database: data
+
+### Spark UI
+Access the jupyterlab UI through the link http://localhost:4040/  
+
+<hr>
+
+## Spark Standalone Mode
+
+Spark Master Url: http://localhost:8080/ <br>
+Spark Worker Url: http://localhost:8081/
+
+<hr>
+
+## Images
+
