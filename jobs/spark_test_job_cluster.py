@@ -21,3 +21,5 @@ if __name__ == "__main__":
 
     df.show(20,False)
     
+    df.write.mode("overwrite").csv("/home/jovyan/work/data/output/test_output_cluster")
+    
