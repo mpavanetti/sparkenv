@@ -45,7 +45,6 @@ Access the jupyterlab UI through the link http://localhost:8888/
 
 * Token: tad  
 * Password: \<Set your own password as you want>
-<br>
 
 ### Mariadb
 
@@ -59,10 +58,10 @@ Access the jupyterlab UI through the link http://localhost:8888/
 * Main Database: data
 
 
-This is all you need in case you take the spark local deployment option.
-
 ### Spark UI
 Access the Spark UI through the link http://localhost:4040/  
+
+This is all you need in case you take the spark local deployment option.
 
 <hr>
 
