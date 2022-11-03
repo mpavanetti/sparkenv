@@ -31,8 +31,8 @@ docker-compose up -d (Windows)
 
 # Run docker compose (Spark Cluster Standalone)
 cd ./standalone/
-sudo docker-compose up -d  (Linux)
-docker-compose up -d (Windows)
+sudo docker-compose up --scale spark-worker=2 -d  (Linux)
+docker-compose up --scale spark-worker=2 -d  (Windows)
 
 # Add permissions
 sudo chmod -R 777 ./ (Linux)
@@ -61,14 +61,15 @@ This is all you need in case you take the spark local deployment option.
 * Main Database: data
 
 ### Spark UI
-Access the jupyterlab UI through the link http://localhost:4040/  
+Access the Spark UI through the link http://localhost:4040/  
 
 <hr>
 
 ## Spark Standalone Mode
 
 Spark Master Url: http://localhost:8080/ <br>
-Spark Worker Url: http://localhost:8081/
+
+Note you can set the number of spark workers while running the docker-compose command, setting the parameter --scale sparker-workers=\<NUMBER OF WORKERS>
 
 <hr>
 
