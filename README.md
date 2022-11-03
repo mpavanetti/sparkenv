@@ -75,3 +75,22 @@ Note you can set the number of spark workers while running the docker-compose co
 
 ## Images
 
+### Jupyterlab welcome screen:
+Token = tad
+![Jupyterlab](img/jupyter.jpg)
+
+### Jupyterlab workspace with pre defined basic notebooks, jobs, jars and data.
+![Jupyterlab](img/jupyter2.jpg)
+
+### Apache Spark basic sample notebook connecting to standalone cluster or local and mysql.
+![Jupyterlab](img/jupyter3.jpg)
+
+### Spark UI
+![Jupyterlab](img/sparkui.jpg)
+
+### Spark Standalone deployment - Spark Master with 2 workers.
+![Jupyterlab](img/sparkmaster.jpg)
+
+### Spark Worker
+![Jupyterlab](img/sparkworker.jpg)
+
