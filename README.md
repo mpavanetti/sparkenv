@@ -1,6 +1,6 @@
 # Apache Spark Environment
 
-### This set of infrastructure sets an apache spark 3.3.1 environment for an easy use, providing also an interactive jupyter lab environment.<br><br>  
+### This set of infrastructure sets an apache spark 3.4.1 environment for an easy use, providing also an interactive jupyter lab environment.<br><br>  
 
 <p> I have Provided two docker-compose files, the first in the project root sets a local spark cluster within jupyterlab while the one under the standalone folder sets a spark standalone cluster with a spark master and worker container plus jupyerlab and mysql.</p>
 <br>
@@ -93,4 +93,3 @@ Token = tad
 
 ### Spark Worker
 ![Jupyterlab](img/sparkworker.jpg)
-
